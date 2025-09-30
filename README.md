@@ -1,5 +1,3 @@
-# Sagres-Airport-Movement-Area-Design
-University project on the design of the movement area for an airport in Sagres, Portugal. Includes PDF documents with the proposed layout and supporting details.
 # Sagres Airport – Movement Area Design  
 
 This repository contains two PDF documents presenting the design of the movement area for an airport located in Sagres, Portugal. The work was carried out as part of a university project in the field of airport planning and design.  
